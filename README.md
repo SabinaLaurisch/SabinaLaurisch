@@ -1,7 +1,20 @@
 - 👋 Hi, I’m @SabinaLaurisch
-- https://www.linkedin.com/in/sabina-laurisch836/
 - 👀 I’m interested in Connecting to the people with all over world.
-- 🌱 I’m currently learning HTML,CSS,JAVA...
+🔌 Skills:
+SQL
+Google Analytics
+Google Tag Manager
+Google Big Query
+Google Looker Studio
+☁ Skills:
+Problem Solver
+Analytical Thinking
+Effective Communication
+Systems Thinker
+👜 Extra skills I'm bringing:
+JavaScript, HTML & CSS
+UX & UI
+
 - 💞️ I’m looking to collaborate on Freelancing...
 - 📫 How to reach me Treandylavender@gmail.com...
 - 😄 Pronouns: .Sabi..

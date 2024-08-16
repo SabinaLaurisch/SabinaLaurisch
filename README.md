@@ -1,16 +1,24 @@
 - 👋 Hi, I’m @SabinaLaurisch
 - 👀 I’m interested in Connecting to the people with all over world.
+
+
+
 🔌 Skills:
 SQL
 Google Analytics
 Google Tag Manager
 Google Big Query
 Google Looker Studio
+
+
 ☁ Skills:
 Problem Solver
 Analytical Thinking
 Effective Communication
 Systems Thinker
+
+
+
 👜 Extra skills I'm bringing:
 JavaScript, HTML & CSS
 UX & UI

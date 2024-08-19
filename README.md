@@ -5,7 +5,7 @@
 
 
 
-##🔌 Skills:
+🔌 Skills:
 SQL
 Google Analytics
 Google Tag Manager

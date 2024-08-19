@@ -1,9 +1,11 @@
+
 - 👋 Hi, I’m @SabinaLaurisch
+
 - 👀 I’m interested in Connecting to the people with all over world.
 
 
 
-🔌 Skills:
+##🔌 Skills:
 SQL
 Google Analytics
 Google Tag Manager
